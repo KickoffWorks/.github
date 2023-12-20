@@ -10,4 +10,4 @@ Some of our stacks/technologies/tools:
 - AWS / Azure
 - Terraform / GitOps
 
-If you have any questions or are interested in our history please contact us through: kickoffworks@gmail.com
+If you have any any enquiries: projects@kickoffworks.com
