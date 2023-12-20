@@ -1,6 +1,6 @@
 ## Welcome to the Kickoff Works GitHub organization!
 
-We are a software development team knowledgeable with an entire application's architecture. We are committed to provide and service the best software in the market.
+We are a skilled software development team specializing in comprehensive application architecture. Committed to delivering top-tier software solutions, we ensure excellence in the market.
 
 Some of our stacks/technologies/tools:
 
